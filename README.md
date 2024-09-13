@@ -11,8 +11,8 @@ This Terraform configuration deploys a Cloud SQL database, a CloudRun service, a
 
 1. Clone the repository:
     ```bash
-    git clone <repo-url>
-    cd <repo-folder>
+    git clone https://github.com/Mabdullahofficial/RNS-Trial-Task.git
+    cd RNS-Trial-Task
     ```
 
 2. Initialize Terraform:

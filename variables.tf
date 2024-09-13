@@ -19,7 +19,7 @@ variable "db_user" {
 
 variable "db_password" {
   description = "Database password"
-  sensitive = true
+  sensitive   = true
 }
 
 variable "cloudrun_service_name" {
